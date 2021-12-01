@@ -1,0 +1,18 @@
+body {
+	background-color: aqua;
+}
+.container {
+	display: flex;
+}
+.para {
+	width: 200px;
+	height: auto;
+}
+.maindiv {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+#div1 {
+	margin: 10px;
+}

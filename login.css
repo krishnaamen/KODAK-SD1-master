@@ -1,0 +1,17 @@
+body {
+  background-color: aqua;
+}
+.card {
+  border: 1px solid blue;
+  border-radius: 5px;
+  display: block;
+  align-items: center;
+}
+.formContainer {
+  margin-left: 50%;
+  margin-top: 20%;
+  transform: translate(-50%, -20%);
+}
+#div3 {
+  margin: auto;
+}
